@@ -1,0 +1,25 @@
+<!DOCTYPE html><!--комменты-->
+<html>
+<head>
+    <title>Фокстерьер</title>
+	<meta charset = "utf-8">
+	<link rel = "stylesheet" type = "text/css" href = "style">
+</head>
+
+   <body>
+        <nav class = "navbar">
+           <div class = "container">
+                <ul class = "menu">
+				   <li><a href = "index.html"> Главная</a></li>
+		           <li><a href = "aboutUs.html"> О нас</a></li>
+			       <li><a href = "description.html"> Описание</a></li>
+			       <li><a href = "foto.html"> Фото</a></li>
+		           <li><a href = "video.html"> Видео</a></li>
+		           <li><a href = "contacts.html"> Контакты</a></li>
+		       </ul>
+			</div>
+		</nav>
+		<h1 align = "center"> Фото </h1>
+   
+</body>
+</html>
